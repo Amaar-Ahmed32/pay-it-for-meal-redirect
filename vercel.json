@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    { "source": "/:path*", "destination": "https://a-plate-of-hope.vercel.app/:path*", "permanent": true }
+  ]
+}
